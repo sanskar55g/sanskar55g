@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanskar55g
-- 👀 I’m interested in technology,pythonprogramming, artificial intelligence, python programming, web development,c programming, machine learning
-- 🌱 I’m currently learning javascript(for full stack development)
+- 👀 I’m interested in technology, python programming, artificial intelligence, web development,c programming, machine learning
+- 🌱 I’m currently learning REACT and DSA with python
 
 - 📫 How to reach me
   instagram @sanskar0_0

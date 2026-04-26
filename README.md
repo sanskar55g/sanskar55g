@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @sanskar55g
 - 👀 I’m interested in technology, python programming, artificial intelligence, web development,c programming, machine learning
-- 🌱 I’m currently learning Flask and DSA with python
+
 
 - 📫 How to reach me
-  instagram @sanskar0_0
+  instagram @sanskar0_o
   linkedin-Sanskar Srivastava
 
 <!---
